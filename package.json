@@ -1,0 +1,19 @@
+{
+  "name": "com.studio.module-iap",
+  "version": "1.0.0",
+  "displayName": "Module - In-App Purchases",
+  "description": "Unity IAP implementation of IIAPService from Core-Infra.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Studio",
+    "email": "s2leoj@gmail.com"
+  },
+  "dependencies": {
+    "com.studio.core-infra": "1.0.0"
+  },
+  "keywords": [
+    "iap",
+    "purchases",
+    "monetization"
+  ]
+}

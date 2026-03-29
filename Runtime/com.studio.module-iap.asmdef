@@ -1,0 +1,16 @@
+{
+    "name": "com.studio.module-iap",
+    "rootNamespace": "Studio.ModuleIAP",
+    "references": [
+        "com.studio.core-infra"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
